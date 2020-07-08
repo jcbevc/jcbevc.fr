@@ -1,0 +1,20 @@
+
+div#content div{
+	display: inline-block;
+}
+div#content div.leftbox{
+
+}
+
+div#content div.rightbox{
+	
+}
+
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+}
